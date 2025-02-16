@@ -15,3 +15,9 @@ button
 	width: 500px; 
 	text-align: center;
 }
+a {
+	color: darkslategray;
+}
+footer {
+	text-align: center;
+}
